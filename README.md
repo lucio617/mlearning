@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of mlearning is to …
+The goal of mlearning is to perform supervised and unsupervised learning easily
 
 ## Installation
 
@@ -14,7 +14,7 @@ You can install the released version of mlearning from
 [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
-install.packages("mlearning")
+install_github("lucio617/mlearning")
 ```
 
 ## Example
